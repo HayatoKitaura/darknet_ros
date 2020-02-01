@@ -1,0 +1,11 @@
+yolo_model:
+
+  config_file:
+    name: penlight_v2tiny.cfg
+  weight_file:
+    name: penlight_v2tiny_final.weights
+  threshold:
+    value: 0.8
+  detection_classes:
+    names:
+      - penlight

@@ -1,0 +1,4 @@
+classes = 1
+train = /home/hayatokitaura/
+names = cfg/penlight_v2tiny.names
+backup = backup/kitaura
